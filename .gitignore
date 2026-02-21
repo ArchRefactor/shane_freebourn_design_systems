@@ -1,0 +1,10 @@
+# Ignore the private scratchpad folder
+private/
+
+# Ignore local system files
+.DS_Store
+Thumbs.db
+
+# Ignore personal notes
+personal_notes.txt
+TODO_private.md
